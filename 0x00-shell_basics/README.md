@@ -5,4 +5,5 @@ Task 3. Writing a script that Display current directory contents in a long forma
 Task 4. Writing a script that Display current directory contents, including hidden files
 Task 5. Writing a script tha Display current directory contents long format, with user and group IDs displayed numerically, and        hidden files
 Task 6. writing a script that creates a directory
-Task 7. Writing a script that Move file from one directory to another directory 
+Task 7. Writing a script that Move file from one directory to another directory
+Task 8. Writing a script that Delete the file inside a subdirectory 
