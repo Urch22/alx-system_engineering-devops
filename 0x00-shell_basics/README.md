@@ -9,3 +9,4 @@ Task 7. Writing a script that Move file from one directory to another directory
 Task 8. Writing a script that Delete the file inside a subdirectory 
 Task 9. Writing a script that Delete a directory from a directory
 Task 10. Writing a script that changes the working directory to the previous one
+Task 11. Writing a script that lists all files
