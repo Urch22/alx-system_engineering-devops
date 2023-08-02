@@ -4,3 +4,4 @@ Task 2. Writing a script that changes the working directory to the user’s home
 Task 3. Writing a script that Display current directory contents in a long format
 Task 4. Writing a script that Display current directory contents, including hidden files
 Task 5. Writing a script tha Display current directory contents long format, with user and group IDs displayed numerically, and        hidden files
+Task 6. writing a script that creates a directory 
