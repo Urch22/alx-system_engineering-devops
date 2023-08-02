@@ -16,3 +16,5 @@ Task 14. Writing a script that Create a script that copies all the HTML files fr
          working director
 Task 15. Writing a script that Create a script that moves all files beginning with an uppercase letter to the directory
 Task 16. Writing a script that Create a script that deletes all files in the current working directory that end with the characte
+Task 17. Writing a script that Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current
+         directory
