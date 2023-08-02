@@ -11,3 +11,4 @@ Task 9. Writing a script that Delete a directory from a directory
 Task 10. Writing a script that changes the working directory to the previous one
 Task 11. Writing a script that lists all files
 Task 12. Writing a script that prints the type of the file name iamafile
+Task 13. Writing a script that Create a symbolic link to
