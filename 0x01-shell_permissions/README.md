@@ -12,3 +12,4 @@ Task 9.  Writing a script that sets the mode of the file hello to this
 Task 10. Writing a script that sets the mode of the file hello the same as olleh’s mode
 Task 11. Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group          owner and all other users
 Task 12. Creating a script that creates a directory called mydir with permissions 751 in the working directory
+Task 13. Writing  a script that changes the group owner to school for the file hello
