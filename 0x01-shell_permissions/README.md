@@ -15,3 +15,4 @@ Task 12. Creating a script that creates a directory called mydir with permission
 Task 13. Writing  a script that changes the group owner to school for the file hello
 Task 14. Writing a script that changes the owner to vincent and the group owner to staff for all the files and directories in 
          the working directory
+Task 15. Writing a script that changes the owner and the group owner of _hello to vincent and staff respectively
